@@ -11,6 +11,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('hi xiyi this is the first try')
+    print_hi('now we try to update from graphic UI')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
